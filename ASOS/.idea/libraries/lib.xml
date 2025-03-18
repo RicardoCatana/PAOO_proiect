@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Simple2DTileEditor 1.01 (EXE)/jdk-12.0.1/lib/jrt-fs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Simple2DTileEditor 1.01 (EXE)/jdk-12.0.1/lib/src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/res/db_driver/sqlite-jdbc-3.8.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/res/db_driver/sqlite-jdbc-3.8.11.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
